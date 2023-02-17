@@ -65,7 +65,7 @@ const Hero = () => {
             </div>
             <div className="w-32 animate-bounce pr-10">
               <img
-                className="relative top-[250px] rotate-[300deg] scale-[1] "
+                className="relative top-[250px] rotate-[300deg] scale-[1.8] "
                 src="https://indonesiacomiccon.com/_nuxt/img/chibi-4.ab835d9.svg"
                 width={200}
                 alt="logo"
