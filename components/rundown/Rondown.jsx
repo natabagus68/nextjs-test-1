@@ -4,11 +4,11 @@ import Cards from "./components/Cards";
 const Rondown = () => {
   return (
     <>
-      <div className=" py-[150px] flex flex-col justify-center">
+      <div className=" py-[150px] flex flex-col justify-center bg-slate-900">
         <h1 className="font-bold text-8xl text-white font-yusei text-center mb-10">
           Rundown
         </h1>
-        <div className="w-[90%] flex flex-wrap gap-4 justify-start m-auto ">
+        <div className="w-[90%] flex flex-wrap gap-4 justify-start m-auto items-center ">
           <Cards />
           <Cards />
           <Cards />

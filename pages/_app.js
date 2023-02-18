@@ -27,6 +27,7 @@ const changa = Changa_One({
   subsets: ["latin"],
   weight: ["400"],
 });
+
 export default function App({ Component, pageProps }) {
   return (
     <>

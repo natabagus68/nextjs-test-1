@@ -2,7 +2,7 @@ const Cards = () => {
   return (
     <>
       <div class="card  w-96 bg-base-100 shadow-xl">
-        <div class="card-body  bg-black">
+        <div class="card-body  bg-slate-900">
           <h2 class="card-title text-white">Main Stage Rundown - Day 1</h2>
         </div>
         <figure>

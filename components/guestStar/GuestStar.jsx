@@ -4,7 +4,7 @@ import Card from "./components/Card";
 const GuestStar = () => {
   return (
     <>
-      <div className="h-screen py-[150px] flex flex-col justify-center">
+      <div className="h-screen py-[150px] flex flex-col justify-center bg-slate-900">
         <h1 className="text-center font-bold font-yusei text-8xl text-white mb-5">
           Guest Star
         </h1>

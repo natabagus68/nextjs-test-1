@@ -4,7 +4,8 @@ import NavbarsHead from "@/components/navbars/NavbarsHead";
 import Hero from "@/components/heroes/Hero";
 import GuestStar from "@/components/guestStar/GuestStar";
 import Rondown from "@/components/rundown/Rondown";
-
+import CardTiket from "@/components/cards_tiket/CardTiket";
+import Pilar from "@/components/pillar/Pillar";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
@@ -20,6 +21,8 @@ export default function Home() {
       <Hero />
       <GuestStar />
       <Rondown />
+      <CardTiket />
+      <Pilar />
     </>
   );
 }
